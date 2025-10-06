@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there 👋 I'm Angelo Tarroza</h1>
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1A1A1A&center=true&vCenter=true&width=435&lines=Passionate+Developer;AI+%7C+ML+%7C+Data+Analysis+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Passionate+Developer;AI+%7C+ML+%7C+Data+Analysis+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 ---
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Windsurf-00BFFF?logo=sports&logoColor=white&style=flat-square" /> <!-- Custom badge for windsurfing -->
+  <img src="https://img.shields.io/badge/-Windsurf-00BFFF?logo=sports&logoColor=white&style=flat-square" /> <!-- Custom badge for windsurfing as a tool -->
 </p>
 
 ---
