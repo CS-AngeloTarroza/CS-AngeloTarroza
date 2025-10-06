@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there 👋 I'm Angelo Tarroza</h1>
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Software&Engineering;AI+%7C+ML+%7C+Data+Analysis+;Open+Source+A.I" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Interested+in+Software+Engineering,+ML,+AI,+and+Data+Analysis;" alt="Typing SVG" />
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ## 🚀 About Me
 - 🎓 4th Year Computer Science
 - 💻 Full-stack developer (JavaScript, Python, TypeScript)
-- 🔗 Interested in Data Analysis, AI, Machine Learning, and Open Source
+- 🔗 Interested in Software Engineering, Machine Learning, AI, and Data Analysis
 - 🌱 Currently learning: Cloud technologies & DevOps
 - 🏆 Always open to collaboration and new projects
 
