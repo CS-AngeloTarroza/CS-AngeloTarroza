@@ -8,7 +8,6 @@
 
 ## 🚀 About Me
 - 🎓 4th Year Computer Science
-- 💻 Full-stack developer (JavaScript, Python, TypeScript)
 - 🔗 Interested in Software Engineering, Machine Learning, AI, and Data Analysis
 - 🌱 Currently learning: Cloud technologies & DevOps
 - 🏆 Always open to collaboration and new projects
