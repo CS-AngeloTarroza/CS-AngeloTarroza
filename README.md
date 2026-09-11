@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 4th Year Computer Science
+- 🎓 Computer Science
 - 🔗 Interested in Software Engineering, Machine Learning, AI, and Data Analysis
 - 🌱 Currently learning: Cloud technologies & DevOps
 - 🏆 Always open to collaboration and new projects
